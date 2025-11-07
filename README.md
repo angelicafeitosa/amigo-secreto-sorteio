@@ -1,4 +1,4 @@
-# 🎁 Desafio Amigo Secreto
+# 🎁 Desafio Sorteio Amigo Secreto
 
 ## 📌 Sobre
 Este é um projeto simples de **Amigo Secreto**, desenvolvido com **HTML, CSS e JavaScript**.  
